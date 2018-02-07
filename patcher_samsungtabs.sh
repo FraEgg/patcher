@@ -47,7 +47,7 @@ git -C vendor/cm			apply $SULTAN/vendor-cm0.patch
 #git -C vendor/cm			apply $SULTAN/vendor-cm1.patch
 
 ### microG patch
-git -C frameworks/base			apply $CUSTOM/microG_android_frameworks_base-N.patch
+#git -C frameworks/base			apply $CUSTOM/microG_android_frameworks_base-N.patch
 
 ### Custom patches
 #git -C frameworks/av			apply $CUSTOM/frameworks-av0.patch
